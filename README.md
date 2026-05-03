@@ -7,6 +7,7 @@
 ### Шаг 5. Сохрани
 ### Шаг 6. Готово!
 
+Код программы:
 #### import secrets as s
 #### import string as st
 ####
